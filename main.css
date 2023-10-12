@@ -1,0 +1,49 @@
+body{
+    background-color: bisque;
+}
+.container{
+  margin: 0 auto;
+  width: 50%;
+  font-weight: bold;
+  font-size: 25px;
+ margin-top: 30px;
+  border:2px solid black;
+  text-align: center;
+  background-color:rgb(144, 223, 223);
+}
+
+input {
+    
+    padding: 15px;
+    margin-bottom: 8px;
+    width: 50%;
+    background-color:rgb(233, 220, 203);
+    border-radius: 5px;
+  
+}
+button{
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color:rgb(233, 220, 203);
+    font-weight: bold;
+}
+
+#mensagem{  
+    font-size: 40px;
+    margin-top: 10px;
+    
+}
+
+.valido{
+    color:#fff;
+    background-color:green;
+    
+}
+
+
+.invalido{
+    color:#fff;
+    background-color:red;
+   
+}
